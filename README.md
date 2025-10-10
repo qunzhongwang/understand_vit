@@ -17,3 +17,8 @@ Here is our official implementatio of `Understanding ViT’s Representation: Sem
 More details and demos are coming soon.
 
 </details>
+
+## 🙌Acknowlegement
+This repo is based on [clip_text_span](https://github.com/yossigandelsman/clip_text_span). We thank the authors for their valuable contributions to the AIGC community.
+
+
