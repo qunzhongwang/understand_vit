@@ -8,11 +8,11 @@
   <a href=><img src='https://img.shields.io/badge/HF-blue?logo=huggingface'></a> &nbsp;
 </div>
 
-Here is our official implementatio of `Understanding ViT’s Representation: Semantic Information vs Spatial Structure` in CSE543 @UW.
+Here is our official implementatio of `Understanding ViT’s Representation: Semantic Information vs Spatial Structure` in **CSE543[University of Washington]**.
 
 ## 🗓️logs
 <details open>
-<summary><strong>2025-09-22</strong></summary>
+<summary><strong>2025-10-09</strong></summary>
 
 More details and demos are coming soon.
 
